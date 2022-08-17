@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+}
+
+.time {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.time p {
+  color: #0096ff;
+  text-shadow: 0 0 50px #00d7ff;
+  font-family: "Dancing Script", cursive;
+  font-size: 100px;
+}
+
+.full_time{
+    color: #fff;
+    font-size: 50px;
+}
